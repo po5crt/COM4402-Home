@@ -1,4 +1,4 @@
-# COM4402-Homee"# COM4402-Home" >> README.md
+# COM4402-Homelab
 git init
 git add README.md
 git commit -m "first commit"
