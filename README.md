@@ -1,4 +1,4 @@
-# COM4402-Homelab
+# Potto COM4402-Home lab
 git init
 git add README.md
 git commit -m "first commit"
